@@ -1,0 +1,2 @@
+C:\Users\utksl\Desktop\blockpuzzle\Debug\blockpuzzle.exe
+C:\Users\utksl\Desktop\blockpuzzle\Debug\blockpuzzle.pdb
