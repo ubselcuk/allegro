@@ -1,0 +1,2 @@
+C:\Users\utksl\Documents\GitHub\allegro\x64\Debug\blockpuzzle.exe
+C:\Users\utksl\Documents\GitHub\allegro\x64\Debug\blockpuzzle.pdb
